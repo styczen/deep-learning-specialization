@@ -1,7 +1,7 @@
 # deep-learning-specialization
 Repository contains solutions for exercises from Deep Learning Specialization courses from [coursera.org](https://www.coursera.org):
 - Neural Networks and Deep Learning,
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (in progress),
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization,
 - Structuring Machine Learning Projects,
-- Convolutional Neural Networks,
+- Convolutional Neural Networks (in progress),
 - Sequence Models
