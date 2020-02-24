@@ -3,5 +3,5 @@ Repository contains solutions for exercises from Deep Learning Specialization co
 - Neural Networks and Deep Learning,
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization,
 - Structuring Machine Learning Projects,
-- Convolutional Neural Networks (in progress),
-- Sequence Models
+- Convolutional Neural Networks,
+- Sequence Models *(in progress)*
